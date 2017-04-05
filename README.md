@@ -1,2 +1,2 @@
 # Boon
-this is an Boon 
+this is Boon app
